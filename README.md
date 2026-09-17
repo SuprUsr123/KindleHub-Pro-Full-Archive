@@ -15,7 +15,7 @@ You need:
 ### 1. Download or clone the repository
 
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/SuprUsr123/KindleHub-Pro-Full-Archive
 cd KindleHub-Pro-Full-Archive
 ```
 
